@@ -54,7 +54,6 @@ body {
     border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 
-
 .profileText .imgBox{
     position: relative;
     width: 150px;
@@ -126,7 +125,6 @@ body {
 a {
     text-decoration: none;
 }
-
 
 .color-black-text {
     color: black;
