@@ -35,4 +35,4 @@ I’m a **Java Full-Stack Developer** passionate about building scalable, effici
 ## 📫 Contact
 - ✉️ Email: shashankgowda1144@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/shashank-d-d](https://linkedin.com/in/shashank-d-d)  
-- 🌍 Portfolio: [shashankgowdru.netlify.app](https://shashankgowdru.netlify.app)  
+- 🌍 Portfolio: [shashankgowdru.netlify.app](https://shashankgowdru.netlify.app)
