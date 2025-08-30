@@ -1,6 +1,3 @@
----
-title: "Shashank Gowda"
----
 
 # 👋 Hi, I’m Shashank Gowda  
 
