@@ -1,4 +1,3 @@
-
 # 👋 Hi, I’m Shashank Gowda  
 
 📍 Bengaluru  
